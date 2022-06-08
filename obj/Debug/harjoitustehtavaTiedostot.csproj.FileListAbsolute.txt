@@ -1,0 +1,7 @@
+C:\Users\laura\source\repos\harjoitustehtavaTiedostot\harjoitustehtavaTiedostot\bin\Debug\harjoitustehtavaTiedostot.exe.config
+C:\Users\laura\source\repos\harjoitustehtavaTiedostot\harjoitustehtavaTiedostot\bin\Debug\harjoitustehtavaTiedostot.exe
+C:\Users\laura\source\repos\harjoitustehtavaTiedostot\harjoitustehtavaTiedostot\bin\Debug\harjoitustehtavaTiedostot.pdb
+C:\Users\laura\source\repos\harjoitustehtavaTiedostot\harjoitustehtavaTiedostot\obj\Debug\harjoitustehtavaTiedostot.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\harjoitustehtavaTiedostot\harjoitustehtavaTiedostot\obj\Debug\harjoitustehtavaTiedostot.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\harjoitustehtavaTiedostot\harjoitustehtavaTiedostot\obj\Debug\harjoitustehtavaTiedostot.exe
+C:\Users\laura\source\repos\harjoitustehtavaTiedostot\harjoitustehtavaTiedostot\obj\Debug\harjoitustehtavaTiedostot.pdb
